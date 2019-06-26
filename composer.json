@@ -1,0 +1,26 @@
+{
+    "name": "blockpen/blockpen-commerce-whmcs",
+    "description": "Sample Merchant Gateway Module for the WHMCS Billing Automation Platform",
+    "keywords": [
+        "blockchain",
+        "cryptocurrency",
+        "etherueum",
+        "stellar",
+        "bitcoin",
+        "merchant gateway module",
+        "gateway module"
+    ],
+    "homepage": "https://commerce.blockpen.tech/",
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "Blockpen Development Team",
+            "email": "b.sizov@blockpen.tech",
+            "homepage": "https://commerce.blockpen.tech/",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "support@blockpen.tech"
+    }
+}
